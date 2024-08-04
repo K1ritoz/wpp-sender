@@ -23,6 +23,6 @@ async function enviarScript(scriptText){
 }
 
 let message = "Words to Send";
-let scriptText = Array(100).fill(message).join('\n');
+let scriptText = Array(100).fill(message).join('\n'); // Altere o "100" pela quantidade de mensagens
 
 enviarScript(scriptText).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error);
