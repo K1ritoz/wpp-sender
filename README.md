@@ -2,7 +2,8 @@ wpp-sender
 
 Código para enviar o palavras repetidamente para seus amigos ou grupos do WhatsApp
 
-Utilização
+## Utilização
+
 Abra [script.js](https://github.com/K1ritoz/wpp-sender/blob/main/send.js)
 
 Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
